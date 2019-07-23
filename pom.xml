@@ -4,11 +4,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.sonarqube</groupId>
-  <artifactId>support-14928</artifactId>
+  <artifactId>squid-2095</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
 
-  <name>support-14928</name>
+  <name>squid-2095-reproducer</name>
 
 
   <properties>
