@@ -37,7 +37,7 @@ public class Reproducer {
 
       pstmt.executeUpdate();
 
-      pstmt = con.prepareStatement(SOME_SQL_STATEMENT);
+      //pstmt = con.prepareStatement(SOME_SQL_STATEMENT);
       
     } catch (SQLException e) {
       LOGGER.log(Level.SEVERE, "Error In Class " + Reproducer.class.getName() + ": " + e.getMessage(), e);
